@@ -2,8 +2,8 @@
   <h1>
     💫 About Me:
   </h1>
+  I am a student from Depok 2 State Vocational High School
 </div>
-I am a student from Depok 2 State Vocational High School
 
 
 # 💻 Tech Stack:
