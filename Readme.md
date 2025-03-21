@@ -1,4 +1,6 @@
+<div align="center">
 # 💫 About Me:
+</div>
 I am a student from Depok 2 State Vocational High School
 
 
