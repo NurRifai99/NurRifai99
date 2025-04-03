@@ -2,7 +2,7 @@
   <h1>
     💫 About Me:
   </h1>
-  I'm just a student who likes to learn progamming 
+  I'm just a student who likes to learn programming 
 </div>
 
 
